@@ -1,7 +1,7 @@
-### 🙋‍♂️ BEM VINDO!!! 👋
+### *🙋‍♂️ BEM VINDO!!! 👋*
 
-- 😃 Pronoun: Artur
-- 📧 Mail: arturchiodi@outlook.com
+ - 😃 Pronoun: Artur
+ - 📧 Mail: arturchiodi@outlook.com
 
 
 <div align="center">
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturChiodiSiqueira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block">  
   <img align="center" alt="Artur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
