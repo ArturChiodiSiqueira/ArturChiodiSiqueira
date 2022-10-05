@@ -3,11 +3,9 @@
  - 😃 Pronoun: Artur
  - 📧 Mail: arturchiodi@outlook.com
 
-
 <div align="center">
-  <a href="https://github.com/ArturChiodiSiqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturChiodiSiqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturChiodiSiqueira&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArturChiodiSiqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArturChiodiSiqueira&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block">  
