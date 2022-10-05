@@ -9,7 +9,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArturChiodiSiqueira&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div style="display: block">  
+<div style="display: inline-block">  
   <img align="center" alt="Artur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
